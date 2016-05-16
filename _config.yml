@@ -1,15 +1,7 @@
-layout_spectrum: 0.6736931
-favicon: null
 name: desianwar
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6736931
+typography_spectrum: 1
 collections:
   - index:
       paginate: true
@@ -26,15 +18,23 @@ cta:
   domain: null
   bucket: null
   version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6948706849943846
-  saturation: 0.7204958330839872
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.7374238988850266
-  rhythmicContrast: 0.6285938215442002
-typography_spectrum: 0.8411357102449983
+    - '#b3c0c8'
+    - '#002081'
+    - '#fefeff'
+    - '#c80029'
+    - '#5a6aa8'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.5
+purpose: []
