@@ -16,8 +16,8 @@ keywords:
   - face2facedesianwar
   - indonesia
 description: 'Face2Face Interview Desi Anwar with H.H. Dalai Lama at Metro TV, June 26, 2010. Episode 1 of 5. Dialog only. Continue to http://www.youtube.com/watch?v=mj79FVQZjeU'
-datePublished: '2016-05-16T15:28:36.960Z'
-dateModified: '2016-05-16T15:28:32.524Z'
+datePublished: '2016-05-16T15:30:00.480Z'
+dateModified: '2016-05-16T15:28:46.971Z'
 author:
   - name: BuddhisNet
     url: 'https://www.youtube.com/user/BuddhisNet'
