@@ -1,14 +1,9 @@
 ---
-author:
-  - name: BuddhisNet
-    url: 'https://www.youtube.com/user/BuddhisNet'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Ir5PayzGVm8'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - face2facedesianwar
   - indonesia
 description: 'Face2Face Interview Desi Anwar with H.H. Dalai Lama at Metro TV, June 26, 2010. Episode 1 of 5. Dialog only. Continue to http://www.youtube.com/watch?v=mj79FVQZjeU'
-inLanguage: en
+datePublished: '2016-05-16T15:27:39.579Z'
+dateModified: '2016-05-16T15:27:21.813Z'
+author:
+  - name: BuddhisNet
+    url: 'https://www.youtube.com/user/BuddhisNet'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Ir5PayzGVm8&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Ir5PayzGVm8'
 title: Face2Face Interview with H.H. Dalai Lama ep.1/5
-datePublished: '2016-05-16T15:23:43.030Z'
-dateModified: '2016-05-16T15:22:09.877Z'
-starred: false
 sourcePath: _posts/2016-05-16-face2face-interview-with-hh-dalai-lama-ep15.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
