@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[desianwar]]></title>
         <description><![CDATA[desianwar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/desianwar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 11:10:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 11:11:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/desianwar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Desi Anwar]]></title>
             <description><![CDATA[<p>PROFILE:</p>]]></description>
-            <link>undefineddesi-anwar/index.html</link>
+            <link>https://thegrid.ai/desianwar/desi-anwar/index.html</link>
             <guid isPermaLink="false">27bd4c33-8f0b-4ba8-b356-58e4e23a203e</guid>
-            <pubDate>Mon, 16 May 2016 11:10:39 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 11:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
