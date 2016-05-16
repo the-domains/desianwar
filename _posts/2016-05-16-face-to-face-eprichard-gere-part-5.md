@@ -14,8 +14,8 @@ description: '"Face to Face with Desi Anwar" is a program that aired on the firs
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3nB4TKwgaT4'
 title: Face to Face ep.Richard Gere Part 5
-datePublished: '2016-05-16T15:37:36.131Z'
-dateModified: '2016-05-16T15:25:22.665Z'
+datePublished: '2016-05-16T15:49:58.376Z'
+dateModified: '2016-05-16T15:47:07.492Z'
 starred: false
 sourcePath: _posts/2016-05-16-face-to-face-eprichard-gere-part-5.md
 inFeed: true
