@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'PROFILE:'
-datePublished: '2016-05-16T11:10:39.741Z'
-dateModified: '2016-05-16T11:10:24.326Z'
+datePublished: '2016-05-16T11:11:58.361Z'
+dateModified: '2016-05-16T11:11:19.502Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-desi-anwar.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-16-desi-anwar.md
 url: desi-anwar/index.html
 _type: Article
 
